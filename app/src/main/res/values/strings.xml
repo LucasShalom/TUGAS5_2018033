@@ -1,0 +1,34 @@
+ <resources>
+        <string name="app_name">recyleView</string>
+        <string-array name="Hotel">
+            <item>PURNAMA</item>
+            <item>ORCHID</item>
+            <item>GOLDEN TULIP</item>
+            <item>AGRO</item>
+            <item>PARADISE</item>
+            <item>SAMARA</item>
+            <item>KARTIKA</item>
+            <item>ARJUNA</item>
+        </string-array>
+        <string-array name="star">
+            <item>5.0</item>
+            <item>4.9</item>
+            <item>5.0</item>
+            <item>4.9</item>
+            <item>5.0</item>
+            <item>4.9</item>
+            <item>5.0</item>
+            <item>4.9</item>
+        </string-array>
+        <string-array name="harga">
+            <item>Rp. 1.900.000</item>
+            <item>Rp. 1.800.000</item>
+            <item>Rp. 1.700.000</item>
+            <item>Rp. 1.650.000</item>
+            <item>Rp. 1.550.000</item>
+            <item>Rp. 1.400.000</item>
+            <item>Rp. 1.350.000</item>
+            <item>Rp. 1.250.000</item>
+        </string-array>
+
+</resources>
